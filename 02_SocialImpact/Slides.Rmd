@@ -39,6 +39,18 @@ layout: true
 
 ---
 
+# So far
+
+- Course overview and logistics
+
+- Introduction to Social Data Science
+
+- Search behavior and the flop of Google Trends
+
+- Future Orientation through search data
+
+
+---
 # Outline
 
 ## 1. Social Impact Theory

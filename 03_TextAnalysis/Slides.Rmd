@@ -38,6 +38,17 @@ layout: true
 
 ---
 
+# So far
+
+- Search behavior and future orientation
+
+- Social Impact Theory
+
+- Online social impact and epidemic analogies
+
+- Regression and bootstrapping
+
+---
 # Outline
 
 ## 1. Basics of dictionary methods
