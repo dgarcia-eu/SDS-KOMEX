@@ -398,3 +398,28 @@ The FOI measures the ratio of search volume from a country for next year divided
 ![](PresEtAl.jpg)
 .right[Pearson correlation coefficient = 0.78]
 
+---
+
+# Summary
+
+- **Introduction to Social Data Science**
+  - Course contents include social dynamics, text analysis, social networks
+  - Emphasis on critique and understanding of limitations and potentials
+
+
+- **Introduction to Google trends**
+  - Searching trends across time and regions in a comparative way
+  - A black box with lots of known unknowns
+
+
+- **Google Flu trends**
+  - When Google trends started overestimating flu incidence
+  - Big data models need to be compared with standard social science models
+
+
+- **Temporal orientation and Google trends**
+  - The Future Orientation Index
+  - Correlating the FOI with GDP
+
+
+  
