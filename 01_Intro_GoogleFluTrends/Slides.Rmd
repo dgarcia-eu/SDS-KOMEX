@@ -95,17 +95,19 @@ magick::image_read_pdf("indiraIntro.pdf", pages = 2)
 
 # Course basics
 
-**Objectives:**
-- Get an idea of the Data Science Workflow.
-- Have an overview on some important libraries for data analysis.
-- Get introductory experience on finding, getting, and wrangling data from the Web, Data Visualization, Machine Learning and text mining.
+- **Objectives:**
+  - Get an idea of the Data Science Workflow.
+  - Have an overview on some important libraries for data analysis.
+  - Get introductory experience on finding, getting, and wrangling data from the Web, Data Visualization, Machine Learning and text mining.
+  - Learn through daily in-class exercises to be solved individually or in groups
 
-**Assignments:**
 
-- Daily in-class exercises to be solved individually or in groups
-- Final individual project to conceptualize a research project, collect and analyze social data with individual written reports
+- **Evaluation:**
+  - Final individual project to conceptualize a research project, collect and analyze social data
+  - Final submission as individual written reports: about 1000 words, code/data repository welcome but not mandatory
+  - Deadline 29.03, submit as **PDF** to david.garcia@uni-konstanz.de
+  - Pass/fail grade based on individual written reports
 
-**Evaluation: pass/fail based on individual written reports**
 
 ---
 
